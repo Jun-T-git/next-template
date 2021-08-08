@@ -1,6 +1,6 @@
-import Head from 'next/head'
-import React from "react"
-import Title from '~/components/title'
+import Head from "next/head";
+import React from "react";
+import Title from "~/components/title";
 
 const Index: React.VFC = () => {
   return (
@@ -17,7 +17,7 @@ const Index: React.VFC = () => {
         </div>
       </main>
     </div>
-  )
-}
+  );
+};
 
-export default Index
+export default Index;
