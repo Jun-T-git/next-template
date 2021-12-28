@@ -1,5 +1,4 @@
 import "~/styles/style.css";
-import "tailwindcss/tailwind.css";
 import { AppProps } from "next/app";
 import { ReactElement } from "react";
 
